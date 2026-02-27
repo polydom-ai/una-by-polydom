@@ -2,9 +2,11 @@
 
 **Autonomous AI Digital Employee for Hospitality**
 
-Una is a vertically integrated AI system that operates hotels, resorts, vacation rentals, and property management companies — autonomously, 24/7, in 90+ languages.
+Una is a vertically integrated AI system that operates hotels, resorts, Airbnb properties, vacation rentals, and property management companies — autonomously, 24/7, in 90+ languages.
 
-She is not a chatbot. She is a fully autonomous Digital Employee that handles guest communication, reservations, payments, upselling, task coordination, and staff dispatching without human intervention.
+She answers calls, manages bookings, and handles guest requests across phone, web, and WhatsApp. An AI employee at **$1/hour** instead of a human at $20/hour.
+
+Una is not a chatbot. She is a fully autonomous Digital Employee — an **AI host for Airbnb and hotels** that handles guest communication, reservations, payments, upselling, task coordination, and staff dispatching without human intervention.
 
 ---
 
@@ -36,6 +38,16 @@ Direct integration with PMS and Booking Engines to fully automate the booking li
 - Share availability, rates, and promotions
 - Send confirmations via SMS, WhatsApp, and email
 - Collect payments via secure payment links
+
+### AI Host for Airbnb & Vacation Rentals
+Una acts as a fully autonomous Airbnb host and short-term rental manager:
+
+- Responds to guest inquiries instantly via Airbnb inbox
+- Handles check-in/check-out instructions automatically
+- Manages booking modifications and cancellations
+- Coordinates turnovers and housekeeping between guests
+- Upsells services like early check-in, late checkout, and extras
+- Works across Airbnb, Booking.com, and direct booking channels simultaneously
 
 ### Task Management & Operations
 Automatic assignment and coordination of operational tasks:
@@ -82,7 +94,7 @@ Retrieves accurate answers from uploaded documentation (PDF, DOCX, XLSX) — pol
 
 ## How It Works
 
-> A guest calls requesting early check-in.
+> A guest messages on Airbnb asking for early check-in.
 
 1. Una detects the language automatically
 2. Checks availability in PMS
@@ -90,7 +102,7 @@ Retrieves accurate answers from uploaded documentation (PDF, DOCX, XLSX) — pol
 4. Applies early check-in policy
 5. Generates and sends a secure payment link
 6. Assigns housekeeping task via TMS
-7. Sends confirmation via WhatsApp and email
+7. Sends confirmation via Airbnb inbox and email
 
 **No manual coordination required.**
 
@@ -98,18 +110,19 @@ Retrieves accurate answers from uploaded documentation (PDF, DOCX, XLSX) — pol
 
 ## Who Is Una For
 
-- Hotels and resorts
-- Boutique hotels
-- Short-term rentals
-- Vacation rental operators
-- Property management companies
-- Multi-property hospitality groups
+- **Airbnb hosts** — from single listings to multi-property portfolios
+- **Hotels and resorts** — front desk, reservations, concierge automation
+- **Boutique hotels** — personalized guest experience at scale
+- **Short-term rental operators** — across Airbnb, Booking.com, and direct channels
+- **Vacation rental managers** — multi-property, multi-channel operations
+- **Property management companies** — centralized AI-powered guest operations
 
 ---
 
 ## What Makes Una Different
 
 - **Fully autonomous** — not a chatbot, a Digital Employee
+- **$1/hour** — fraction of the cost of human staff
 - **Vertically integrated** — embedded in PMS, TMS, CRM workflows
 - **Voice + Text** — handles calls and messages natively
 - **90+ languages** — with automatic detection
@@ -120,15 +133,20 @@ Retrieves accurate answers from uploaded documentation (PDF, DOCX, XLSX) — pol
 
 ## About Polydom
 
-[Polydom Inc.](https://polydom.com) builds AI infrastructure for hospitality operations.  
+[Polydom Inc.](https://polydom.ai) builds AI infrastructure for hospitality operations.
 Una is Polydom's flagship autonomous Digital Employee.
+
+**Headquarters:** Washington, DC, USA
+**Founded:** 2024
 
 ---
 
 ## Links
 
-- **Website:** [polydom.com](https://polydom.com)
-- **Product:** [Una](https://polydom.com/una)
+- **Website:** [polydom.ai](https://polydom.ai)
+- **Una Product:** [polydom.ai/products](https://polydom.ai/products)
+- **Apaleo Marketplace:** [Una on Apaleo Store](https://store.apaleo.com/apps/una)
+- **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 
 ---
 
