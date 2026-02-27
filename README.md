@@ -82,7 +82,7 @@ Retrieves accurate answers from uploaded documentation (PDF, DOCX, XLSX) — pol
 
 | Category | Systems |
 |---|---|
-| **PMS** | Mews · Apaleo · Guesty · Hospitable · Zeevou · Clock PMS+ · Profitroom · Ensoconnect · Chekin |
+| **PMS** | Mews · Apaleo · Guesty · Hospitable · Zeevou · Clock PMS+ · Profitroom · Ensoconnect |
 | **TMS** | HNext (HKeeper) |
 | **CRM** | Kommo CRM |
 | **Communication** | WhatsApp (WATI) · Telegram · Facebook · Instagram · SMS · Email |
@@ -148,6 +148,7 @@ Una is Polydom's flagship autonomous Digital Employee.
 - **Apaleo Marketplace:** [Una on Apaleo Store](https://store.apaleo.com/apps/una)
 - **MEWS Marketplace:** [Una on MEWS Marketplace](https://www.mews.com/en/products/marketplace/una)
 - **Guesty Marketplace:** [Una on Guesty Marketplace](https://www.guesty.com/marketplace-items/una/)
+- **Clock Marketplace:** [Una on Clock Marketplace](https://www.clock-software.com/products/integrations/una)
 - **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 
 ---
