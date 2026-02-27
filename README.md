@@ -146,6 +146,8 @@ Una is Polydom's flagship autonomous Digital Employee.
 - **Website:** [polydom.ai](https://polydom.ai)
 - **Una Product:** [polydom.ai/products](https://polydom.ai/products)
 - **Apaleo Marketplace:** [Una on Apaleo Store](https://store.apaleo.com/apps/una)
+- **MEWS Marketplace:** [Una on MEWS Marketplace](https://www.mews.com/en/products/marketplace/una)
+- **Guesty Marketplace:** [Una on Guesty Marketplace](https://www.guesty.com/marketplace-items/una/)
 - **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 
 ---
