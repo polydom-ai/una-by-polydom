@@ -1,1 +1,137 @@
-# una-by-polydom
+# Una by Polydom
+
+**Autonomous AI Digital Employee for Hospitality**
+
+Una is a vertically integrated AI system that operates hotels, resorts, vacation rentals, and property management companies — autonomously, 24/7, in 90+ languages.
+
+She is not a chatbot. She is a fully autonomous Digital Employee that handles guest communication, reservations, payments, upselling, task coordination, and staff dispatching without human intervention.
+
+---
+
+## What Una Does
+
+### Multichannel Guest Communication
+24/7 support across every major channel:
+
+- **Website Widget** — voice and text
+- **WhatsApp** — voice and text (including WATI inbox)
+- **Telephony** — inbound and outbound calls
+- **Email** — inbound and outbound
+- **SMS**
+- **Messaging** — Facebook Messenger, Instagram, Telegram
+- **OTA Inboxes** — Airbnb, Booking.com, Guesty, Zeevou, Hospitable
+- **QR Code Access** — guests scan and connect instantly
+- **Kiosk Mode** — lobby tablet deployment for guest self-service
+
+### Voice AI
+- Automatic language detection across 10 primary languages: English, Spanish, French, German, Hindi, Russian, Portuguese, Japanese, Italian, Dutch
+- Multi-property voice routing and intelligent call dispatching
+
+### Reservation & Booking Automation
+Direct integration with PMS and Booking Engines to fully automate the booking lifecycle:
+
+- Create, modify, and cancel reservations in real time
+- Upsell room inventory and add-on services
+- Coordinate multi-room and group bookings
+- Share availability, rates, and promotions
+- Send confirmations via SMS, WhatsApp, and email
+- Collect payments via secure payment links
+
+### Task Management & Operations
+Automatic assignment and coordination of operational tasks:
+
+- Housekeeping task assignment
+- Maintenance request dispatching
+- Room turnover coordination
+- Service request routing
+- Completion tracking and staff notifications
+
+### Concierge & Guest Services
+- Local recommendations and restaurant reservations
+- Transfer bookings and activity coordination
+- In-room dining, housekeeping, and maintenance requests
+- Dynamic upselling of premium rooms and services
+
+### Proactive Engagement
+Una initiates communication — she doesn't just respond:
+
+- Reservation confirmations
+- Pre-arrival instructions
+- Post-stay feedback collection
+- Promotional campaigns and special offers
+- Lead qualification with CRM sync
+
+### Knowledge Base
+Retrieves accurate answers from uploaded documentation (PDF, DOCX, XLSX) — policies, SOPs, pricing sheets, service manuals.
+
+---
+
+## Integrations
+
+| Category | Systems |
+|---|---|
+| **PMS** | Mews · Apaleo · Guesty · Hospitable · Zeevou · Clock PMS+ · Profitroom · Ensoconnect · Chekin |
+| **TMS** | HNext (HKeeper) |
+| **CRM** | Kommo CRM |
+| **Communication** | WhatsApp (WATI) · Telegram · Facebook · Instagram · SMS · Email |
+| **OTA Inboxes** | Airbnb · Booking.com · Guesty Inbox · Zeevou Inbox |
+| **Scheduling** | Google Calendar · Cal.com |
+| **Custom** | Webhooks · API-based integrations |
+
+---
+
+## How It Works
+
+> A guest calls requesting early check-in.
+
+1. Una detects the language automatically
+2. Checks availability in PMS
+3. Verifies housekeeping status
+4. Applies early check-in policy
+5. Generates and sends a secure payment link
+6. Assigns housekeeping task via TMS
+7. Sends confirmation via WhatsApp and email
+
+**No manual coordination required.**
+
+---
+
+## Who Is Una For
+
+- Hotels and resorts
+- Boutique hotels
+- Short-term rentals
+- Vacation rental operators
+- Property management companies
+- Multi-property hospitality groups
+
+---
+
+## What Makes Una Different
+
+- **Fully autonomous** — not a chatbot, a Digital Employee
+- **Vertically integrated** — embedded in PMS, TMS, CRM workflows
+- **Voice + Text** — handles calls and messages natively
+- **90+ languages** — with automatic detection
+- **Proactive** — initiates communication, qualifies leads, upsells
+- **Built for hospitality** — every feature designed for hotel and rental operations
+
+---
+
+## About Polydom
+
+[Polydom Inc.](https://polydom.com) builds AI infrastructure for hospitality operations.  
+Una is Polydom's flagship autonomous Digital Employee.
+
+---
+
+## Links
+
+- **Website:** [polydom.com](https://polydom.com)
+- **Product:** [Una](https://polydom.com/una)
+
+---
+
+## License
+
+Proprietary. © 2026 Polydom Inc. All rights reserved.
