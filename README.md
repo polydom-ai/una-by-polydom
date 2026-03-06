@@ -150,7 +150,7 @@ Una is Polydom's flagship autonomous Digital Employee.
 - **Clock Marketplace:** [Una on Clock Marketplace](https://www.clock-software.com/products/integrations/una)
 - **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 
-### Reviews & Directories
+## Reviews & Directories
 
 - **G2:** [Una by Polydom on G2](https://www.g2.com/products/una-by-polydom/reviews)
 - **Capterra:** [Una on Capterra](https://www.capterra.com/p/10037573/Una/)
