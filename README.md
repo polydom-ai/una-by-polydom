@@ -150,6 +150,12 @@ Una is Polydom's flagship autonomous Digital Employee.
 - **Clock Marketplace:** [Una on Clock Marketplace](https://www.clock-software.com/products/integrations/una)
 - **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 
+## Documentation & Partner Resources
+
+- **SOP:** [Una SOP (PDF)](https://cdn.polydom.ai/una-polydom-sop.pdf)
+- **Hospitable Setup Guide:** [Connect Hospitable with Una by Polydom](https://help.hospitable.com/en/articles/13928776-connect-hospitable-with-una-by-polydom-to-automate-guest-communication-across-messaging-chat-and-phone)
+- **Hospitable Listing:** [Hospitable Integrations – Guest Communication](https://hospitable.com/integrations#guest-communication)
+
 ## Reviews & Directories
 
 - **G2:** [Una by Polydom on G2](https://www.g2.com/products/una-by-polydom/reviews)
