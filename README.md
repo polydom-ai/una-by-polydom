@@ -148,6 +148,7 @@ Una is Polydom's flagship autonomous Digital Employee.
 - **MEWS Marketplace:** [Una on MEWS Marketplace](https://www.mews.com/en/products/marketplace/una)
 - **Guesty Marketplace:** [Una on Guesty Marketplace](https://www.guesty.com/marketplace-items/una/)
 - **Clock Marketplace:** [Una on Clock Marketplace](https://www.clock-software.com/products/integrations/una)
+- **Zeevou Integrations:** [Una in Zeevou Integrations](https://zeevou.com/integrations/una-by-polydom/)
 - **LinkedIn:** [Polydom](https://www.linkedin.com/company/polydom-ai)
 
 ## Documentation & Partner Resources
